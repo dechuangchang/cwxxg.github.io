@@ -1,0 +1,15 @@
+@import url(https://cdn.bootcss.com/bootstrap/4.1.0/css/bootstrap-grid.css);div {
+  background: #80f3ed;
+}
+div .jpg {
+  height: 100px;
+  margin-bottom: 100px;
+  background: url(../img/3.jpg);
+  -webkit-transform: rotate(30deg);
+          transform: rotate(30deg);
+}
+body {
+  width: 100vw;
+  height: 100vh;
+  background: url(https://ss1.bdstatic.com/70cFvXSh_Q1YnxGkpoWK1HF6hhy/it/u=2431563696,3857386199&fm=27&gp=0.jpg) no-repeat center;
+}
